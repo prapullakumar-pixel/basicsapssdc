@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>main</title>
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+   <style type="text/css">
+   	.parent{
+   		display: flex;
+   		margin: 2px;
+   		padding: 2px;
+   	}
+   	.jumbotron {
+   		margin: 1%;
+        border:2px solid blue;
+   		padding: 1%;
+   	}
+
+   </style>
+</head>
+<body>
+	<nav class="navbar navbar-expand bg-dark">
+  <ul class="navbar-nav">
+   <li class="nav-item">
+
+    <a href="#" class="nav-link">Home</a></li>
+   <li><a href="login.html" class="nav-link">Login</a></li>
+   <li><a href="profile.html" class="nav-link">Profile</a></li>
+   <li><a href="index.html" class="nav-link">Index</a></li>
+  </ul>
+ </nav>
+
+<div class="parent">
+ <div class="jumbotron" style="width: 300px">
+  <img src="images/profile.png" class="img-thumbnail">
+ </div>
+ <div class="jumbotron" style="width: 300px">
+  <img src="images/profile.png" class="rounded">
+ </div>
+</div>
+ <!--for drop down -->
+<div class="dropdown">
+	<button class="btn-primary drop-down-toggle" data-toggle=dropdown>view</button>
+    <div class="dropdown-menu">
+    	<a href="profile.html" class="dropdown-item">profile</a>
+    	<a href="login.html" class="dropdown-item">login</a>
+    	<a href="register.html" class="dropdown-item"> register</a>
+    </div>
+</div>
+
+<!--grid system-->
+<div class="container-fluid">
+    <h1>we will learn web designing</h1>
+    <p>in this training program we will learn training program we learnt git and github,css3,html5,bootstrap4,js,reactjs</p>  
+</div>
+
+<div class="row">
+    <div class="col-xl" style= "text-align:center">html5</div>
+    <div class="col-xl">css3</div>
+    <div class="col-xl">javascrpit</div>
+    <div class="col-xl">reactjs</div>
+    <div class="col-xl">bootstrap</div>
+    <div class="col-xl">king koduku</div>
+</div>
+</body>
+</html>

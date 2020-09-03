@@ -1,0 +1,28 @@
+{ 
+  "details":{
+  	"name":"apssdc",
+  	"age":5,
+    "courses":["webdesigning","phython","data analysis"]
+  },
+  "trainers":[
+
+           {
+           	"name":"sairam",
+            "phoneNo":999999888,
+            "Email":"sairam@gmail.com"
+           },
+           {
+           	"name":"sairam",
+            "phoneNo":999999888,
+            "Email":"sairam@gmail.com"
+           },
+
+           {
+           	"name":"sairam",
+            "phoneNo":999999888,
+            "Email":"sairam@gmail.com"
+           }
+  
+  ]
+
+}

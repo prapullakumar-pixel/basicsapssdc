@@ -43,6 +43,17 @@ else{
 	document.write("fail")
 }
 
+class Square{
+	constructor(height,width){
+        this.h=height;
+        this.w=width;
+	}
+}
+var a=new Square("40cm","40cm");
+document.write(a.h);
 
-
-
+//arrow function
+var add =(a,b)=>{
+	window.alert(5+6);
+}
+add(5,6);

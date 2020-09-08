@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<!-- saved from url=(0034)http://127.0.0.1:8887/dynamic.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Dynamic Web Page</title>
+	
+	<meta name="viewport" content="width=device-width,scale-intital scale=1.0">
+	<meta name="description" content="this is dynamic web page">
+	<link rel="stylesheet" type="text/css" href="./console_files/dynamic.css">
+</head>
+
+<body>
+   <div class="parent-div"></div>
+
+
+
+<script type="text/javascript" src="./console_files/dynamic.js.download"></script></body></html>

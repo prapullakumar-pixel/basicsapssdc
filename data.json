@@ -1,7 +1,8 @@
 { 
   "details":{
-  	"name":"apssdc",
+  	"name":"Andhra Pradesh state skill development coporation(APSSDC)",
   	"age":5,
+    "photo":"images/profile.png",
     "courses":["webdesigning","phython","data analysis"]
   },
   "trainers":[
@@ -22,7 +23,5 @@
             "phoneNo":999999888,
             "Email":"sairam@gmail.com"
            }
-  
-  ]
-
+         ]
 }

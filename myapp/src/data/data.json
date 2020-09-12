@@ -1,0 +1,28 @@
+{
+   "profiles":[
+    {
+    	"basicInfo":{
+             "name":"raghav",
+             "roll":"trainee",
+             "mobile":"9848384567",
+             "email":"raghav@gmail.com"
+       }
+    },
+    {
+    	"basicInfo":{
+             "name":"vardhan",
+             "roll":"student",
+             "mobile":"9848384567",
+             "email":"vardhan@gmail.com"
+       }
+    },
+    {
+    	"basicInfo":{
+             "name":"tarun",
+             "roll":"trainee",
+             "mobile":"9848384567",
+             "email":"tarun@gmail.com"
+       }
+    }
+   ]
+}
